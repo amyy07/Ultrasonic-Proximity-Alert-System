@@ -10,10 +10,10 @@ This project is an Arduino-based ultrasonic proximity warning system that detect
 - Beeping frequency increases as the object gets closer.
 - Beep pitch increases as the object gets closer.
 - Displays visual warning messages:
-    SAFE – Object is more than 100 cm away.
-    WARNING – Object is between 51 cm and 100 cm.
-    CLOSE – Object is between 21 cm and 50 cm.
-    STOP! – Object is within 20 cm.
+    - SAFE – Object is more than 100 cm away.
+    - WARNING – Object is between 51 cm and 100 cm.
+    - CLOSE – Object is between 21 cm and 50 cm.
+    - STOP! – Object is within 20 cm.
 
 ## Components
 - Arduino Uno
